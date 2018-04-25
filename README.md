@@ -1,2 +1,3 @@
 # go-crawler
-A crawler that goes on! Get it?
+
+Golang app created with generator-go and yeoman.
